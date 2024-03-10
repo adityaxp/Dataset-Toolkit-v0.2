@@ -1,4 +1,5 @@
 questions = [   
+    "What is RTI?",
     "How does Indian law address the issue of child trafficking and exploitation?",
     "What legal mechanisms are in place to protect the rights of marginalized and vulnerable communities?",
     "How does Indian law regulate the use of corporal punishment in educational institutions?",

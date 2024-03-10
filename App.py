@@ -61,7 +61,7 @@ def createContext():
     contextEntry.insert('1.0', f"Context created for: {promptNum + 1}")
     prompt = f'''Give answer for the question  based on the context provided. 
     Based on the give context give answer or take relevant part from the context to form the answer.
-    Keep the  answer simple and short.Question: {setPrompt(promptNum)} 
+    Keep the  answer simple and in brief.Question: {setPrompt(promptNum)} 
     also provide refrence used for generating answer according to Indian laws'''
     pyperclip.copy(prompt)
 
